@@ -9,7 +9,7 @@ inside Data folder are train, valid, and test
 
 training set is 70% \
 testing set is 20% \
-validation set is 10% \
+validation set is 10% 
 
 **Adenocarcinoma**
 Adenocarcinoma of the lung: Lung adenocarcinoma is the most common form of lung cancer
