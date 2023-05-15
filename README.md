@@ -1,4 +1,4 @@
-# ChestCancerClassification-PyTorch
+# Chest Cancer Classification with PyTorch
 The goal of this project is to develop a deep learning model for the classification of chest cancer using PyTorch and EfficientNet
 
 ## About Dataset
